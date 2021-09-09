@@ -28,6 +28,9 @@
             <Label Text="{Binding StudentCodeDisplay}"/>
             <Label Text="{Binding StudentTitleDisplay}"/>
             <Label Text="{Binding StudentUnitDisplay}"/>
+            <Label Text="{Binding StudentIdDisplay}"/>
+            <Label Text="{Binding NameDisplay}"/>
+          <Label Text="{Binding DateDisplay}"/>
             
         </StackLayout>
     </ContentPage.Content>
